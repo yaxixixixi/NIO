@@ -19,7 +19,7 @@ public class Server {
 
         ServerBootstrap bootstrap = new ServerBootstrap();//用于服务器通道的一系列配置
 
-        bootstrap.group(bossGroup,workGroup) //绑定两个线程组
-                .
+//        bootstrap.group(bossGroup,workGroup) //绑定两个线程组
+
     }
 }
